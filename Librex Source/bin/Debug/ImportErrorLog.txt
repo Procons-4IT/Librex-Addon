@@ -1,0 +1,18 @@
+18/07/2013:1617 --> Unable to cast COM object of type 'System.__ComObject' to class type 'System.String'. Instances of types that represent COM components cannot be cast to types that do not represent COM components; however they can be cast to interfaces as long as the underlying COM component supports QueryInterface calls for the IID of the interface.
+18/07/2013:1832 --> Illegal value entered
+18/07/2013:1832 --> Illegal value entered
+18/07/2013:1832 --> Illegal value entered
+19/07/2013:1021 --> Invalid date value (ODBC -1005)
+19/07/2013:1021 --> Invalid date value (ODBC -1005)
+19/07/2013:1022 --> Invalid date value (ODBC -1005)
+19/07/2013:1044 AM --> String was not recognized as a valid DateTime.
+23/09/2013:1051 AM --> Exception from HRESULT: 0xFFFFFC17
+29/09/2013:1029 AM --> Exception from HRESULT: 0xFFFFFC17
+29/09/2013:1029 AM --> Exception from HRESULT: 0xFFFFFC17
+29/09/2013:1030 AM --> Exception from HRESULT: 0xFFFFFC17
+07/10/2013:1055 AM --> Index and length must refer to a location within the string.
+Parameter name: length
+07/10/2013:1056 AM --> Index and length must refer to a location within the string.
+Parameter name: length
+07/10/2013:1056 AM --> Exception from HRESULT: 0xFFFFFC17
+07/10/2013:1056 AM --> Exception from HRESULT: 0xFFFFFC17
